@@ -1,6 +1,3 @@
-**Author: Stephanie Hingtgen
-Project 2, Com Sci 352, Fall 2018** 
-
 **Overview:** 
 This project allows multiple clients to connect to a server. The clients send encrypted commands to the server
 and then the server decrypts the command and then the server sends the response back to the client. All normal
